@@ -1,1 +1,52 @@
+div {
+    background-color: #e2bcb7;
+}
 
+body {
+   margin: 0;
+   text-align: center;
+}
+
+h1 {
+    position: relative;
+    width: 10%;
+    padding: 5%;
+    margin: 0 auto 0 auto;
+}
+
+.top-container {
+    margin: 0;
+}
+
+.middle-container {
+    height: 200px;
+    width: 200px;
+    padding: 0;
+    border: solid 20px;
+    background-color: yellow;
+}
+
+.bottom-container {
+    height: 200px;
+    width: 200px;
+    padding: 0;
+    border: solid 20px;
+    background-color: blue;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 35%;
+    top: 15%;
+}
+
+.top-cloud {
+    position: absolute;
+    left: 60%;
+    top: 0;
+}
+
+.mountain {
+    width: 800px;
+    height: 400px;
+}
